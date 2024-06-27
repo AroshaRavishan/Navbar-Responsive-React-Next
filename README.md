@@ -2,6 +2,12 @@
 
 This is a React component that renders a navigation bar with various features.
 
+## Previews
+
+![Large Screen Preview](https://github.com/AroshaRavishan/Navbar-Responsive-React-Next/raw/main/Large%20screen%20view.png)
+
+![Mobile View Preview](https://github.com/AroshaRavishan/Navbar-Responsive-React-Next/raw/main/mobile%20view.png)
+
 ## Features
 
 - **Sticky Navigation:** The navigation bar is sticky with a blue background.
