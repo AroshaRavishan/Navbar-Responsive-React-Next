@@ -31,7 +31,7 @@ This is a React component that renders a navigation bar with various features.
 ## Usage
 
 1. **Installation:**
-   - Clone the repository: `[git clone https://github.com/your-username/your-repo.git](https://github.com/AroshaRavishan/Navbar-Responsive-React-Next.git)`
+   - Clone the repository: `git clone https://github.com/AroshaRavishan/Navbar-Responsive-React-Next.git`
    - Install dependencies: `npm install`
 
 2. **Integration:**
